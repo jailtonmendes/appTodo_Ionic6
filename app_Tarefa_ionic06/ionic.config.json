@@ -1,7 +1,0 @@
-{
-  "name": "app_Tarefa_ionic06",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
